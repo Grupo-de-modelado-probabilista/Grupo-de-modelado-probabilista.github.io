@@ -22,17 +22,17 @@ html, body {
   float: left;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 20px;
   text-decoration: none;
   font-size: 17px;
 }
 
 .topnav a:hover {
-  color: #ff5733;
+  color: #0695d6;
 }
 
 .topnav a.active {
-  color: #ff5733;
+  color: #0695d6;
   font-weight: bold;
 }
 
@@ -86,7 +86,7 @@ html, body {
 
 
 .workplace-link {
- color:  #ff5733;
+ color:  #0695d6;
  text-decoration: none;
  text-align: center;
  margin-bottom: 5px;
@@ -99,7 +99,7 @@ html, body {
 }
 
 .pub-links{
-  color:  #ff5733;
+  color:  #0695d6;
   text-decoration: none;
   font-size: 20px;
   font-weight: bold;
@@ -110,12 +110,12 @@ html, body {
 }
 
 .other-link{
-  color:  #ff5733;
+  color:  #0695d6;
   text-decoration: none;
 }
 
 .other-link:hover{
-  color:  #ff5733;
+  color:  #0695d6;
   text-decoration: underline;
 }
 .social-links, .skill-icons{
@@ -134,7 +134,7 @@ html, body {
 
 .social-links a {
   text-decoration: none;
-  color:  #ff5733;
+  color:  #0695d6;
 }
 
 .social-links li:hover {
